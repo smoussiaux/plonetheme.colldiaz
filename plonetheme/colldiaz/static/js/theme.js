@@ -1,0 +1,5 @@
+
+function initializeplonethemecolldiaz(){
+
+}
+jQuery(initializeplonethemecolldiaz);
